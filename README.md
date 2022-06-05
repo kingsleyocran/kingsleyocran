@@ -2,7 +2,7 @@ Hi 👋 My name is Kingsley Ocran
 ===============================
 Software Engineer
 -----------------  
-Self-motivated, design-oriented and efficient software engineer with 2+ years of experience in application layers presentation layers, and databases. Currently seeking to further improve back-end development and cloud development skills.  
+Self-motivated, design-oriented and efficient software engineer with 3+ years of experience in application layers presentation layers, and databases. Currently seeking to further improve back-end development and cloud development skills.  
 * 🌍  I'm based in Ghana 
 * ✉️  You can contact me at [ocrankingsley@gmail.com](mailto:ocrankingsley@gmail.com)
 
