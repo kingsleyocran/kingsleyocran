@@ -17,4 +17,4 @@ Self-motivated, design-oriented and efficient software engineer with 3+ years of
 
 -----------------  
 <a href="http://www.github.com/kingsleyocran"><img src="https://github-readme-stats.vercel.app/api?username=kingsleyocran&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="kingsleyocran's GitHub stats" /></a>
-<a href="http://www.github.com/kingsleyocran"><img src="https://activity-graph.herokuapp.com/graph?username=kingsleyocran&bg_color=ffffff&color=0f172a&line=14b8a6&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
