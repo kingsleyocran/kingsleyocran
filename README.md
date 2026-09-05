@@ -4,7 +4,8 @@ I build software that runs businesses. Payment systems, commerce platforms, ente
 
 * 🌍  I'm based in Accra, Ghana 
 * ✉️  You can contact me at [ocrankingsley@gmail.com](mailto:ocrankingsley@gmail.com)
-* 🚀  I'm currently working on [Cayacart](http://cayacart.com) * 🧠  I'm currently learning Rust
+* 🚀  I'm currently working on [Cayacart](http://cayacart.com)
+* 🧠  I'm currently learning Rust
 
 <br/>
 
