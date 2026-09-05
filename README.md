@@ -1,7 +1,5 @@
 Hi ! My name is Kingsley Ocran 
 -------------------------------------------------------------  
-Software Engineer | .NET · Go · Python · Javascript · Flutter 
--------------------------------------------------------------  
 I build software that runs businesses. Payment systems, commerce platforms, enterprise tools. Senior Software Engineer at Floodgates International, building AI-powered SaaS products in Go and Python. Previously co-founded Melo Technologies, where I led a multi-tenant SaaS platform from concept to production on ASP.NET Core, onboarding 6 CPG distributors and manufacturers. 7+ years across .NET, Go, Python, React, Flutter. Certified on AWS and GCP.  
 
 * 🌍  I'm based in Accra, Ghana 
