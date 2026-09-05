@@ -1,20 +1,60 @@
-Hi 👋 My name is Kingsley Ocran
-===============================
-Software Engineer
------------------  
-Self-motivated, design-oriented and efficient software engineer with 3+ years of experience in application layers presentation layers, and databases. Currently seeking to further improve back-end development and cloud development skills.  
-* 🌍  I'm based in Ghana 
-* ✉️  You can contact me at [ocrankingsley@gmail.com](mailto:ocrankingsley@gmail.com)
+# GitHub Profile README Draft
 
-### Skills
------------------  
-<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a> <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a> </p> 
+```markdown
+# Hi, I'm Kingsley Ocran
 
+I build software that runs businesses. Payment systems, commerce platforms, enterprise tools.
 
-### Socials  
+Senior Software Engineer at Floodgates International, building AI-powered SaaS products in Go and Python. Previously co-founded Melo Technologies, where I led a multi-tenant SaaS platform from concept to production on ASP.NET Core, onboarding 6 CPG distributors and manufacturers.
 
-<p align="left"> <a href="https://www.github.com/kingsleyocran" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kingsley-ocran-9909a3186/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+5+ years across .NET, Go, Python, React, Flutter. Certified on AWS and GCP.
 
------------------  
+* Based in Accra, Ghana
+* Open to remote opportunities
+* ocrankingsley@gmail.com
+
+---
+
+### What I'm Building
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| **Trustur AI** | AI research and analytics engine. 30,000+ DAU across 10+ law schools in Africa | Go, Python, Flutter, Gemini, GPT, Claude, RAG |
+| **Cayacart** | Business operating system that adapts to how each business actually works | Go, Clean Architecture |
+| **GhostType** | AI-powered form input. Type naturally, get structured data | React, TypeScript |
+| **LedgerCore** | Double-entry accounting library. Multi-currency, immutable, audit-ready | Go |
+| **Forge** | Opinionated project scaffolding for Go backends and Flutter apps | Go CLI |
+| **Hatch** | Maps local domains to your running apps. No more localhost:3000 | Go, TypeScript (VSCode ext) |
+
+---
+
+### Tech
+
+**Languages:** C#, Go, Python, JavaScript/TypeScript, Dart
+
+**Backend:** ASP.NET Core, Entity Framework Core, FastAPI, Gin, Go Fiber, Node.js
+
+**Cloud:** Azure (App Services, Functions, Service Bus, SQL), GCP, AWS
+
+**Databases:** SQL Server, PostgreSQL, MongoDB, Redis, Elasticsearch, Firebase
+
+**Architecture:** DDD, Event-Driven, Microservices, CQRS, Clean Architecture, Saga Pattern
+
+**AI/ML:** LLM Integration (Gemini, GPT, Claude), Embeddings, RAG, PGVector
+
+**Frontend & Mobile:** React, Next.js, Flutter, Tailwind CSS
+
+**DevOps:** Docker, Kubernetes, Terraform, GitHub Actions, Azure DevOps
+
+---
+
+### Socials
+
+<p align="left">
+<a href="https://www.linkedin.com/in/kingsley-ocran-9909a3186/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
+
+---
+
 <a href="http://www.github.com/kingsleyocran"><img src="https://github-readme-stats.vercel.app/api?username=kingsleyocran&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="kingsleyocran's GitHub stats" /></a>
-
+```
